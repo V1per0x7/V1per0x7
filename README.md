@@ -14,7 +14,7 @@ A few things I actually believe which are proof before confidence, quality befor
 
 <h3><a href="https://github.com/V1per0x7/viper-cybersecurity-analyst">VIPER — Cybersecurity Analyst</a></h3>
 
-A bounded, evidence first control plane for application security research, with a live public demo.
+A bounded, evidence first control plane for application security research and with its custom trained AI model on viper scans own data exclusive to researchers and still in early development phases.
 
 <p>
   <img src="https://raw.githubusercontent.com/V1per0x7/viper-cybersecurity-analyst/main/assets/dashboard-overview.png" width="640" alt="VIPER dashboard">
