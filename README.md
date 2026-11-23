@@ -7,10 +7,9 @@
 
 ## About me
 
-Security engineer building tools that make application security work faster without making it careless. Currently building **VIPER**, submitted to **OpenAI Build Week 2026**. Codex and GPT-5.6 were used as a real engineering partner this Build Week: tracing callers, capturing real network traffic to diagnose broken routes, writing adversarial regressions, and reviewing design decisions before anything shipped.
+Security engineer building tools that make application security work faster without making it careless. Currently building **VIPER**.
 
-A few things I actually believe: proof before confidence, quality before coverage, and a gate with 1,635 passing tests and three failures is still a failure.
-
+A few things I actually believe which are proof before confidence, quality before coverage, and a **VIPER STANDARD** that isn't violated to ensure product quuality.
 ## Featured project
 
 <h3><a href="https://github.com/V1per0x7/viper-cybersecurity-analyst">VIPER — Cybersecurity Analyst</a></h3>
